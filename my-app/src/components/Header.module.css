@@ -1,0 +1,15 @@
+
+
+
+.header {
+    padding: 20px;
+    grid-area: header;
+    background-color:#bc986a;
+    background-color:#daad86;
+    background-color:#fbeec1;
+    background-color:#daad86;
+  
+  }
+  .header img {
+    width: 60px;
+  }

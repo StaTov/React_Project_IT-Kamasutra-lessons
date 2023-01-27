@@ -1,0 +1,8 @@
+
+.nav {
+  grid-area: nav;
+  align-self: start;
+  background-color: #659dbd;
+  background-color:#daad86;
+  background-color:#8d8741;
+}
